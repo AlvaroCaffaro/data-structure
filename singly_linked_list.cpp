@@ -24,12 +24,12 @@ int List<T>::size() {
 }
 	
 template <typename T>
-T List<T>::front() {
+T& List<T>::front() {
 	return *(((this->first)->next)->data);
 }
 	
 template <typename T>
-T List<T>::back() {
+T& List<T>::back() {
 	return *((this->last)->data);
 }
 	
