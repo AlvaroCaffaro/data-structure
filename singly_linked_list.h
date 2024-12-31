@@ -92,8 +92,8 @@ class List{
 	iterator begin();
 	iterator end();
 	
-	T front();
-	T back();
+	T& front();
+	T& back();
 	
 	iterator next(iterator p);
 	iterator prev(iterator p);
