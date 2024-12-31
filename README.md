@@ -1,0 +1,1 @@
+The .h files are the headers, they contain the definition of the classes (with their methods and the internal classes that access the memory) while the files ending with .cpp contain the implementation of the class methods.
