@@ -1,10 +1,10 @@
 The .h files are the headers, they contain the definition of the classes (with their methods and the internal classes that access the memory) while the files ending with .cpp contain the implementation of the class methods.
 
-# // English  
+# English  
 
 (debajo esta la descripcion de las estructuras en español).
 
-💡 Data Structures  
+# 💡 Data Structures  
 Welcome to the Data Structures repository! Here you will find implementations of various structures that are fundamental for efficient and scalable programming.
 
 🟢 Vector
@@ -58,9 +58,9 @@ Feel free to explore the repository and contribute your ideas! If you have sugge
 
 # // Español
 
-("The description of the structures is above in English")
+(The English description is above)
 
-💡 Estructuras de Datos
+# 💡 Estructuras de Datos
 ¡Bienvenido al repositorio de Estructuras de Datos! Aquí encontrarás implementaciones de diversas estructuras que son fundamentales para la programación eficiente y escalable.
 
 🟢 Vector
