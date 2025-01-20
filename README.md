@@ -44,6 +44,11 @@ Trees are commonly traversed recursively, making them especially suitable for pr
 There are different types of trees, such as binary trees and binary search trees, which optimize the access and insertion of elements.
 Trees are fundamental in various applications, such as databases, index structures, and file systems.
 
+🌲 Binary Tree
+The Binary Tree is a specific type of tree data structure where each node can have at most two children: a left child and a right child.
+In this structure, insertions occur in non-dereferenceable positions within the tree, as each position is predefined.
+It is widely used in computer science due to its efficiency in retrieving information, especially when implemented as a Binary Search Tree (BST). In a BST, elements are organized so that the left child has a value less than its parent node, while the right child has a greater value. This organization optimizes operations such as searching, inserting, and deleting.
+
 🗺️ Map:
 A Map is a data structure that associates unique keys with values.
 In this repository, the map is implemented using a sorted vector of pairs (key-value).
@@ -103,6 +108,11 @@ A diferencia de las estructuras lineales, como los vectores o listas, los árbol
 Los árboles se recorren comúnmente de forma recursiva, lo que hace que el manejo de estas estructuras sea especialmente adecuado para técnicas de programación como la recursión.
 Existen diferentes tipos de árboles, como los árboles binarios y los árboles de búsqueda binaria, que optimizan el acceso y la inserción de elementos.
 Los árboles son fundamentales en diversas aplicaciones, como bases de datos, estructuras de índices y sistemas de archivos.
+
+🌲 Binary Tree
+El Binary Tree (o Árbol Binario) es un caso particular de la estructura de datos árbol, donde cada nodo puede tener como máximo dos hijos: un hijo izquierdo y un hijo derecho.
+En esta estructura, las inserciones se realizan en posiciones no dereferenciables dentro del árbol, ya que cada posición del árbol está previamente definida.
+Es ampliamente utilizado en informática por su eficiencia para recuperar información, especialmente cuando se implementa como un Árbol Binario de Búsqueda (BST). En un BST, los elementos se organizan de manera que el hijo izquierdo tiene un valor menor que el nodo padre, mientras que el hijo derecho tiene un valor mayor. Esto permite optimizar las operaciones de búsqueda, inserción y eliminación.
 
 🗺️ Map:
 Un Map (o mapa) es una estructura de datos que asocia claves únicas con valores.
